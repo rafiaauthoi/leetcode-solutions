@@ -13,6 +13,8 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 219 | Contains Duplicate II | Easy | Hash Map | [solution.py](arrays-hashing/0219-contains-duplicate-ii/solution.py) |
 | 220 | Contains Duplicate III | Hard | Bucketing | [solution.py](arrays-hashing/0220-contains-duplicate-iii/solution.py) |
 | 347 | Top K Frequent Elements | Medium | Bucket Sort | [solution.py](arrays-hashing/0347-top-k-frequent-elements/solution.py) |
+| 271 | Encode and Decode Strings | Medium | String Encoding | [solution.py](arrays-hashing/0271-encode-and-decode-strings/solution.py) |
+| 238 | Product of Array Except Self | Medium | Prefix/Suffix | [solution.py](arrays-hashing/0238-product-of-array-except-self/solution.py) |
 
 ## Structure
 
