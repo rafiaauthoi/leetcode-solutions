@@ -12,6 +12,7 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 217 | Contains Duplicate | Easy | Hash Set | [solution.py](arrays-hashing/0217-contains-duplicate/solution.py) |
 | 219 | Contains Duplicate II | Easy | Hash Map | [solution.py](arrays-hashing/0219-contains-duplicate-ii/solution.py) |
 | 220 | Contains Duplicate III | Hard | Bucketing | [solution.py](arrays-hashing/0220-contains-duplicate-iii/solution.py) |
+| 347 | Top K Frequent Elements | Medium | Bucket Sort | [solution.py](arrays-hashing/0347-top-k-frequent-elements/solution.py) |
 
 ## Structure
 
