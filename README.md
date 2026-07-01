@@ -7,7 +7,8 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---------|------------|---------|----------|
 | 1 | Two Sum | Easy | Brute Force | [solution.py](arrays-hashing/0001-two-sum/solution.py) |
-| 2 | Valid Anagram | Easy | Hash Map | [solution.py](arrays-hashing/0242-valid-anagram/solution.py) |
+| 242 | Valid Anagram | Easy | Hash Map | [solution.py](arrays-hashing/0242-valid-anagram/solution.py) |
+| 49 | Group Anagrams | Medium | Hash Map | [solution.py](arrays-hashing/0049-group-anagrams/solution.py) |
 
 ## Structure
 
