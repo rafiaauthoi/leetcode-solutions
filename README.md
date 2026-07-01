@@ -15,6 +15,8 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 347 | Top K Frequent Elements | Medium | Bucket Sort | [solution.py](arrays-hashing/0347-top-k-frequent-elements/solution.py) |
 | 271 | Encode and Decode Strings | Medium | String Encoding | [solution.py](arrays-hashing/0271-encode-and-decode-strings/solution.py) |
 | 238 | Product of Array Except Self | Medium | Prefix/Suffix | [solution.py](arrays-hashing/0238-product-of-array-except-self/solution.py) |
+| 36 | Valid Sudoku | Medium | Hash Set | [solution.py](arrays-hashing/0036-valid-sudoku/solution.py) |
+| 128 | Longest Consecutive Sequence | Medium | Hash Set | [solution.py](arrays-hashing/0128-longest-consecutive-sequence/solution.py) |
 
 ## Structure
 
