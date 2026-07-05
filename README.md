@@ -17,6 +17,7 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 238 | Product of Array Except Self | Medium | Prefix/Suffix | [solution.py](arrays-hashing/0238-product-of-array-except-self/solution.py) |
 | 36 | Valid Sudoku | Medium | Hash Set | [solution.py](arrays-hashing/0036-valid-sudoku/solution.py) |
 | 128 | Longest Consecutive Sequence | Medium | Hash Set | [solution.py](arrays-hashing/0128-longest-consecutive-sequence/solution.py) |
+| 125 | Valid Palindrome | Easy | Two Pointers | [solution.py](two-pointers/0125-valid-palindrome/solution.py) |
 
 ## Structure
 
