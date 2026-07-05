@@ -4,6 +4,8 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 
 ## Progress
 
+### Arrays & Hashing
+
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---------|------------|---------|----------|
 | 1 | Two Sum | Easy | Brute Force | [solution.py](arrays-hashing/0001-two-sum/solution.py) |
@@ -17,7 +19,16 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 238 | Product of Array Except Self | Medium | Prefix/Suffix | [solution.py](arrays-hashing/0238-product-of-array-except-self/solution.py) |
 | 36 | Valid Sudoku | Medium | Hash Set | [solution.py](arrays-hashing/0036-valid-sudoku/solution.py) |
 | 128 | Longest Consecutive Sequence | Medium | Hash Set | [solution.py](arrays-hashing/0128-longest-consecutive-sequence/solution.py) |
+
+### Two Pointers
+
+| # | Problem | Difficulty | Pattern | Solution |
+|---|---------|------------|---------|----------|
 | 125 | Valid Palindrome | Easy | Two Pointers | [solution.py](two-pointers/0125-valid-palindrome/solution.py) |
+| 167 | Two Sum II | Medium | Two Pointers | [solution.py](two-pointers/0167-two-sum-ii/solution.py) |
+| 15 | 3Sum | Medium | Two Pointers | [solution.py](two-pointers/0015-3sum/solution.py) |
+| 11 | Container With Most Water | Medium | Two Pointers | [solution.py](two-pointers/0011-container-with-most-water/solution.py) |
+| 42 | Trapping Rain Water | Hard | Two Pointers | [solution.py](two-pointers/0042-trapping-rain-water/solution.py) |
 
 ## Structure
 
