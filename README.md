@@ -30,6 +30,17 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 11 | Container With Most Water | Medium | Two Pointers | [solution.py](two-pointers/0011-container-with-most-water/solution.py) |
 | 42 | Trapping Rain Water | Hard | Two Pointers | [solution.py](two-pointers/0042-trapping-rain-water/solution.py) |
 
+### Sliding Window
+
+| # | Problem | Difficulty | Pattern | Solution |
+|---|---------|------------|---------|----------|
+| 121 | Best Time to Buy and Sell Stock | Easy | Sliding Window | [solution.py](sliding-window/0121-best-time-to-buy-and-sell-stock/solution.py) |
+| 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | [solution.py](sliding-window/0003-longest-substring-without-repeating-characters/solution.py) |
+| 424 | Longest Repeating Character Replacement | Medium | Sliding Window | [solution.py](sliding-window/0424-longest-repeating-character-replacement/solution.py) |
+| 567 | Permutation in String | Medium | Fixed Window | [solution.py](sliding-window/0567-permutation-in-string/solution.py) |
+| 76 | Minimum Window Substring | Hard | Variable Window | [solution.py](sliding-window/0076-minimum-window-substring/solution.py) |
+| 239 | Sliding Window Maximum | Hard | Monotonic Deque | [solution.py](sliding-window/0239-sliding-window-maximum/solution.py) |s
+
 ## Structure
 
 Solutions are organized by topic:
