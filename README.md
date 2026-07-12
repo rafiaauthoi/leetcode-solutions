@@ -52,6 +52,18 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 853 | Car Fleet | Medium | Stack | [solution.py](stack/0853-car-fleet/solution.py) |
 | 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | [solution.py](stack/0084-largest-rectangle-in-histogram/solution.py) |
 
+### Binary Search
+
+| # | Problem | Difficulty | Pattern | Solution |
+|---|---------|------------|---------|----------|
+| 704 | Binary Search | Easy | Binary Search | [solution.py](binary-search/0704-binary-search/solution.py) |
+| 74 | Search a 2D Matrix | Medium | Binary Search | [solution.py](binary-search/0074-search-a-2d-matrix/solution.py) |
+| 875 | Koko Eating Bananas | Medium | Binary Search on Answer | [solution.py](binary-search/0875-koko-eating-bananas/solution.py) |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | [solution.py](binary-search/0153-find-minimum-in-rotated-sorted-array/solution.py) |
+| 33 | Search in Rotated Sorted Array | Medium | Binary Search | [solution.py](binary-search/0033-search-in-rotated-sorted-array/solution.py) |
+| 981 | Time Based Key-Value Store | Medium | Binary Search | [solution.py](binary-search/0981-time-based-key-value-store/solution.py) |
+| 4 | Median of Two Sorted Arrays | Hard | Binary Search | [solution.py](binary-search/0004-median-of-two-sorted-arrays/solution.py) |
+
 ## Structure
 
 Solutions are organized by topic:
