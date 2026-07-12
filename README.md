@@ -41,6 +41,17 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 76 | Minimum Window Substring | Hard | Variable Window | [solution.py](sliding-window/0076-minimum-window-substring/solution.py) |
 | 239 | Sliding Window Maximum | Hard | Monotonic Deque | [solution.py](sliding-window/0239-sliding-window-maximum/solution.py) |s
 
+### Stack
+
+| # | Problem | Difficulty | Pattern | Solution |
+|---|---------|------------|---------|----------|
+| 20 | Valid Parentheses | Easy | Stack | [solution.py](stack/0020-valid-parentheses/solution.py) |
+| 155 | Min Stack | Medium | Stack | [solution.py](stack/0155-min-stack/solution.py) |
+| 150 | Evaluate Reverse Polish Notation | Medium | Stack | [solution.py](stack/0150-evaluate-reverse-polish-notation/solution.py) |
+| 739 | Daily Temperatures | Medium | Monotonic Stack | [solution.py](stack/0739-daily-temperatures/solution.py) |
+| 853 | Car Fleet | Medium | Stack | [solution.py](stack/0853-car-fleet/solution.py) |
+| 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | [solution.py](stack/0084-largest-rectangle-in-histogram/solution.py) |
+
 ## Structure
 
 Solutions are organized by topic:
