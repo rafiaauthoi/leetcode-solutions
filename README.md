@@ -64,6 +64,22 @@ My solutions to LeetCode problems, organized by topic as I work through [NeetCod
 | 981 | Time Based Key-Value Store | Medium | Binary Search | [solution.py](binary-search/0981-time-based-key-value-store/solution.py) |
 | 4 | Median of Two Sorted Arrays | Hard | Binary Search | [solution.py](binary-search/0004-median-of-two-sorted-arrays/solution.py) |
 
+### Linked List
+
+| # | Problem | Difficulty | Pattern | Solution |
+|---|---------|------------|---------|----------|
+| 206 | Reverse Linked List | Easy | Iterative pointer reversal | [solution.py](linked-list/0206-reverse-linked-list/solution.py) |
+| 21 | Merge Two Sorted Lists | Easy | Dummy node, two pointers | [solution.py](linked-list/0021-merge-two-sorted-lists/solution.py) |
+| 141 | Linked List Cycle | Easy | Fast and slow pointers | [solution.py](linked-list/0141-linked-list-cycle/solution.py) |
+| 143 | Reorder List | Medium | Find middle, reverse, merge | [solution.py](linked-list/0143-reorder-list/solution.py) |
+| 19 | Remove Nth Node From End of List | Medium | Two pointers with a fixed gap | [solution.py](linked-list/0019-remove-nth-node-from-end-of-list/solution.py) |
+| 138 | Copy List with Random Pointer | Medium | Hash map for node mapping | [solution.py](linked-list/0138-copy-list-with-random-pointer/solution.py) |
+| 2 | Add Two Numbers | Medium | Simulated digit addition | [solution.py](linked-list/0002-add-two-numbers/solution.py) |
+| 287 | Find the Duplicate Number | Medium | Floyd's cycle detection on array | [solution.py](linked-list/0287-find-the-duplicate-number/solution.py) |
+| 146 | LRU Cache | Medium | Hash map plus doubly linked list | [solution.py](linked-list/0146-lru-cache/solution.py) |
+| 23 | Merge k Sorted Lists | Hard | Min-heap | [solution.py](linked-list/0023-merge-k-sorted-lists/solution.py) |
+| 25 | Reverse Nodes in k-Group | Hard | Bounded iterative reversal | [solution.py](linked-list/0025-reverse-nodes-in-k-group/solution.py) |
+
 ## Structure
 
 Solutions are organized by topic:
